@@ -1,7 +1,5 @@
 # pymaceuticals-challenge
 
-![image](https://github.com/kristinadubei/pymaceuticals-challenge/assets/63558912/b846aa18-791e-4a55-bcca-18264b1743cb)
-
 # Background
 I've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
